@@ -1,15 +1,20 @@
 import React from "react";
 
 const About = () => (
-  <div>
-    <h1>About Page</h1>
-    <p>
-      Nunc pharetra finibus est at efficitur. Praesent sed congue diam. Integer gravida dui mauris,
-      ut interdum nunc egestas sed. Aenean sed mollis diam. Nunc aliquet risus ac finibus porta. Nam
-      quis arcu non lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-      imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus in. Sed rhoncus mollis
-      diam, sit amet facilisis lectus blandit at.
-    </p>
+  <div class="columns">
+   <section className="section">
+      <figure className="image is-256x256">
+        <img src={require("../../assets/me.png")} />
+      </figure>  
+    </section>
+    <section className="section is-medium">
+        <h1 className="title has-text-link">About Me</h1>
+        <h2 className="subtitle">
+          A simple container to divide your page into <strong>sections</strong>, like the one you're currently reading.
+        </h2>
+    </section>
+    
+
   </div>
 );
 

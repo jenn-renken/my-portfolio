@@ -1,0 +1,13 @@
+.hero::before {
+    content: "";
+    z-index: -1;
+    background-image: url(../src/assets/travel-experience.png);
+    background-size: contain;
+    background-position: center;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.75;
+  }
