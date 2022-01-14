@@ -3,6 +3,7 @@ import NavTabs from './NavTabs';
 import Home from './pages/Home';
 import About from './pages/About';
 import MyWork from './pages/MyWork';
+import Resume from './pages/Resume';
 import Contact from './pages/Contact';
 
 function Portfolio() {
@@ -16,6 +17,8 @@ function Portfolio() {
         return <About />;
       case 'My Work':
         return <MyWork />;
+      case 'Resume':
+        return <Resume />;
       case 'Contact':
         return <Contact />;
       default:
