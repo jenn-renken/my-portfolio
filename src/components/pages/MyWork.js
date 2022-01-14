@@ -1,8 +1,12 @@
 import React from "react";
 
 const MyWork = () => (
-  <div>
-    <h1 className="title is-2 has-text-link">My Work</h1>
+  <div className="container">
+    <nav className="level">
+      <div className="level-item has-text-centered">
+        <h1 className="title is-3 has-text-link">Work Portfolio</h1>
+      </div>
+    </nav>
 
     <div className="card">
       <div className="card-image">

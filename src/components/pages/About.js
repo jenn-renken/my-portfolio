@@ -10,7 +10,10 @@ const About = () => (
     <section className="section is-medium">
         <h1 className="title has-text-link">About Me</h1>
         <h2 className="subtitle">
-          A simple container to divide your page into <strong>sections</strong>, like the one you're currently reading.
+          I have been working as a Quality Assurance Analyst for the past 10 years. My job has been to ensure the software we devleop is both functional and usable.
+          <br/>
+          <br />
+          I am currently transitioning to a more technical role which will include frontend development and automated testing.
         </h2>
     </section>
   </div>
