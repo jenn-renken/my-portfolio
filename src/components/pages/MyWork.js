@@ -1,12 +1,12 @@
 import React from "react";
 
-const Blog = () => (
+const MyWork = () => (
   <div>
     <h1 className="title is-2 has-text-link">My Work</h1>
     <div className="card">
   <div className="card-image">
     <figure className="image is-256x256">
-      <img src="../../assets/travel-experience.png" alt="Placeholder image" />
+      <img src={require("../../assets/travel-experience.png")} alt="image with boat and mountains" />
     </figure>
   </div>
   <div className="card-content">
@@ -34,4 +34,4 @@ const Blog = () => (
   </div>
 );
 
-export default Blog;
+export default MyWork;
