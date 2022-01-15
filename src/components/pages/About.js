@@ -1,7 +1,7 @@
 import React from "react";
 
 const About = () => (
-  <div class="columns">
+  <div className="columns">
    <section className="section">
       <figure className="image is-256x256">
         <img src={require("../../assets/me.png")} />

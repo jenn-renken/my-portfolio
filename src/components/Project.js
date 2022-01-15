@@ -4,11 +4,15 @@ const Project = (props) => {
     const project = props.project;
     const srcs = {
         "travel": require("../assets/travel-experience.png"),
-        "cocktail": require("../assets/cocktail.png")
+        "cocktail": require("../assets/cocktail.png"),
+        "food": require("../assets/food-festival.png"),
+        "zoo": require("../assets/zookeepr.png"),
+        "note": require("../assets/note-taker.png"),
+        "weather": require("../assets/weather.png")
     }
 
     return (
-        <div className="card pb-6">
+        <div className="card mb-5">
         <div className="card-image">
           <figure className="image is-256x256">
             <img
