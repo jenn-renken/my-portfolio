@@ -5,85 +5,32 @@ const Resume = () => (
     <div className="content">
         <a href="/Resume.pdf" target="_blank">Download my resume!</a>
         <h1>Resume</h1>
-        <p>Lorem ipsum<sup><a>[1]</a></sup> dolor sit amet, consectetur adipiscing elit. Nulla accumsan, metus ultrices eleifend gravida, nulla nunc varius lectus, nec rutrum justo nibh eu lectus. Ut vulputate semper dui. Fusce erat odio, sollicitudin vel erat vel, interdum mattis neque. Sub<sub>script</sub> works as well!</p>
-        <h2>Second level</h2>
-        <p>Curabitur accumsan turpis pharetra <strong>augue tincidunt</strong> blandit. Quisque condimentum maximus mi, sit amet commodo arcu rutrum id. Proin pretium urna vel cursus venenatis. Suspendisse potenti. Etiam mattis sem rhoncus lacus dapibus facilisis. Donec at dignissim dui. Ut et neque nisl.</p>
-        <ul>
-            <li>In fermentum leo eu lectus mollis, quis dictum mi aliquet.</li>
-            <li>Morbi eu nulla lobortis, lobortis est in, fringilla felis.</li>
-            <li>Aliquam nec felis in sapien venenatis viverra fermentum nec lectus.</li>
-            <li>Ut non enim metus.</li>
-        </ul>
-        <h3>Third level</h3>
-        <p>Quisque ante lacus, malesuada ac auctor vitae, congue <a href="#">non ante</a>. Phasellus lacus ex, semper ac tortor nec, fringilla condimentum orci. Fusce eu rutrum tellus.</p>
-        <ol>
-            <li>Donec blandit a lorem id convallis.</li>
-            <li>Cras gravida arcu at diam gravida gravida.</li>
-            <li>Integer in volutpat libero.</li>
-            <li>Donec a diam tellus.</li>
-            <li>Aenean nec tortor orci.</li>
-            <li>Quisque aliquam cursus urna, non bibendum massa viverra eget.</li>
-            <li>Vivamus maximus ultricies pulvinar.</li>
-        </ol>
-        <blockquote>Ut venenatis, nisl scelerisque sollicitudin fermentum, quam libero hendrerit ipsum, ut blandit est tellus sit amet turpis.</blockquote>
-        <p>Quisque at semper enim, eu hendrerit odio. Etiam auctor nisl et <em>justo sodales</em> elementum. Maecenas ultrices lacus quis neque consectetur, et lobortis nisi molestie.</p>
-        <p>Sed sagittis enim ac tortor maximus rutrum. Nulla facilisi. Donec mattis vulputate risus in luctus. Maecenas vestibulum interdum commodo.</p>
-        <dl>
-            <dt>Web</dt>
-            <dd>The part of the Internet that contains websites and web pages</dd>
-            <dt>HTML</dt>
-            <dd>A markup language for creating web pages</dd>
-            <dt>CSS</dt>
-            <dd>A technology to make HTML look better</dd>
-        </dl>
-        <p>Suspendisse egestas sapien non felis placerat elementum. Morbi tortor nisl, suscipit sed mi sit amet, mollis malesuada nulla. Nulla facilisi. Nullam ac erat ante.</p>
-        <h4>Fourth level</h4>
-        <p>Nulla efficitur eleifend nisi, sit amet bibendum sapien fringilla ac. Mauris euismod metus a tellus laoreet, at elementum ex efficitur.</p>
-        <pre>&lt;!DOCTYPE html&gt;{"\n"}&lt;html&gt;{"\n"}{"  "}&lt;head&gt;{"\n"}{"    "}&lt;title&gt;Hello World&lt;/title&gt;{"\n"}{"  "}&lt;/head&gt;{"\n"}{"  "}&lt;body&gt;{"\n"}{"    "}&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra nec nulla vitae mollis.&lt;/p&gt;{"\n"}{"  "}&lt;/body&gt;{"\n"}&lt;/html&gt;{"\n"}</pre>
-        <p>Maecenas eleifend sollicitudin dui, faucibus sollicitudin augue cursus non. Ut finibus eleifend arcu ut vehicula. Mauris eu est maximus est porta condimentum in eu justo. Nulla id iaculis sapien.</p>
-        <table>
-            <thead>
-            <tr>
-                <th>One</th>
-                <th>Two</th>
-            </tr>
-            </thead>
-            <tbody>
-            <tr>
-                <td>Three</td>
-                <td>Four</td>
-            </tr>
-            <tr>
-                <td>Five</td>
-                <td>Six</td>
-            </tr>
-            <tr>
-                <td>Seven</td>
-                <td>Eight</td>
-            </tr>
-            <tr>
-                <td>Nine</td>
-                <td>Ten</td>
-            </tr>
-            <tr>
-                <td>Eleven</td>
-                <td>Twelve</td>
-            </tr>
-            </tbody>
-        </table>
-        <p>Phasellus porttitor enim id metus volutpat ultricies. Ut nisi nunc, blandit sed dapibus at, vestibulum in felis. Etiam iaculis lorem ac nibh bibendum rhoncus. Nam interdum efficitur ligula sit amet ullamcorper. Etiam tristique, leo vitae porta faucibus, mi lacus laoreet metus, at cursus leo est vel tellus. Sed ac posuere est. Nunc ultricies nunc neque, vitae ultricies ex sodales quis. Aliquam eu nibh in libero accumsan pulvinar. Nullam nec nisl placerat, pretium metus vel, euismod ipsum. Proin tempor cursus nisl vel condimentum. Nam pharetra varius metus non pellentesque.</p>
-        <h5>Fifth level</h5>
-        <p>Aliquam sagittis rhoncus vulputate. Cras non luctus sem, sed tincidunt ligula. Vestibulum at nunc elit. Praesent aliquet ligula mi, in luctus elit volutpat porta. Phasellus molestie diam vel nisi sodales, a eleifend augue laoreet. Sed nec eleifend justo. Nam et sollicitudin odio.</p>
-        <figure>
-            <img src="https://bulma.io/images/placeholders/256x256.png" />
-            <img src="https://bulma.io/images/placeholders/256x256.png" />
-            <figcaption>
-            Figure 1: Some beautiful placeholders
-            </figcaption>
-        </figure>
-        <h6>Sixth level</h6>
-        <p>Cras in nibh lacinia, venenatis nisi et, auctor urna. Donec pulvinar lacus sed diam dignissim, ut eleifend eros accumsan. Phasellus non tortor eros. Ut sed rutrum lacus. Etiam purus nunc, scelerisque quis enim vitae, malesuada ultrices turpis. Nunc vitae maximus purus, nec consectetur dui. Suspendisse euismod, elit vel rutrum commodo, ipsum tortor maximus dui, sed varius sapien odio vitae est. Etiam at cursus metus.</p>
-        </div>
+            <h2>Jennifer G. Renken</h2>
+            <h4>Education</h4>
+                <p>The George Washington University, Washington DC
+                    <br />
+                    Bachelor of Art/ Art History
+                </p>
+            <h4>Work Experience</h4>
+            <p><strong>NCARB</strong> | Washington, DC | Quality Assurance Analyst II | July 2014-present </p>
+            <ul>
+                <li>Partners with the Business Analyst and UX Designer to ensure software meets the business requirements and is intuitive and easy to use</li>
+                <li>Runs end-to-end system tests to ensure all software is functioning properly as new features and enhancements are added</li>
+                <li>Documents defects using GitHub and follows up with developers to ensure they have been addressed</li>
+                <li>Develops and delivers training to appropriate stakeholders for new systems or features</li>
+                <li>Tests mobile applications for both IOS and Android platforms </li>
+            </ul>
+            <p><strong>Skills:</strong> GitHub, Slack, Test Flight, Mandrill, MailChimp, ZenDesk, Browser Stack, TeamCity, InVision, Certified Agile Scrum Master </p>
+            <p><strong>SOCMA</strong> | Washington, DC | Assistant Manager, Meetings | March 2006 - January 2009 </p>
+            <ul>
+                <li>Served as TIMSS database administrator- responsible for general database maintenance, creating events, creating invoices, updating demographic information, creating new users, training of new staff users, troubleshooting staff issues</li>
+                <li>Built and maintained Cvent registration website for each event</li>
+                <li>Designed event promotion material including programs, signs, brochures and registration packets</li>
+                <li>Assisted Information Technology department with fielding staff questions and troubleshooting computer/network problems</li>
+                <li>Set up and assisted staff with A\V equipment used for meetings</li>
+                <li>Acted as backup network administrator</li>
+            </ul>
+    </div>
   </div>
 );
 
