@@ -5,6 +5,7 @@ import About from './pages/About';
 import MyWork from './pages/MyWork';
 import Resume from './pages/Resume';
 import Contact from './pages/Contact';
+import Footer from './Footer';
 
 function Portfolio() {
   // Using useState, set the default value for currentPage to 'Home'
@@ -32,6 +33,9 @@ function Portfolio() {
       <NavTabs currentPage={currentPage} setCurrentPage={setCurrentPage} />
       {/* Call the renderPage function passing in the currentPage */}
       <div>{renderPage(currentPage)}</div>
+      <div className='content-container'> 
+        <Footer className="footer--pin"></Footer>
+      </div>
     </div>
   );
 }
