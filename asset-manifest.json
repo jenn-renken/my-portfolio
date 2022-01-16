@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/static/js/main.5269173a.js",
+    "static/media/food-festival.png": "/static/media/food-festival.e9a57f639deb63a0d7c2.png",
+    "static/media/pic_ocean.png": "/static/media/pic_ocean.0196ef37919f56a892bb.png",
+    "static/media/cocktail.png": "/static/media/cocktail.dc6fcde92f445920ff9e.png",
+    "static/media/zookeepr.png": "/static/media/zookeepr.8416ac0f6d4267386e61.png",
+    "static/media/travel-experience.png": "/static/media/travel-experience.c04c2c9d626545cbc060.png",
+    "static/media/me.png": "/static/media/me.4af520bddd26cd17fda6.png",
+    "static/media/weather.png": "/static/media/weather.a6287b3857a43c4d1901.png",
+    "static/media/note-taker.png": "/static/media/note-taker.cb1edddf32dfd67d43bf.png",
+    "static/media/Instagram_Glyph_Gradient_RGB.png": "/static/media/Instagram_Glyph_Gradient_RGB.f7b3dff34fba7bf43d83.png",
+    "index.html": "/index.html",
+    "main.5269173a.js.map": "/static/js/main.5269173a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5269173a.js"
+  ]
+}
