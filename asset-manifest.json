@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/my-portfolio/static/js/main.893cf9bd.js",
+    "main.js": "/my-portfolio/static/js/main.234c24ac.js",
     "static/media/food-festival.png": "/my-portfolio/static/media/food-festival.e9a57f639deb63a0d7c2.png",
     "static/media/pic_ocean.png": "/my-portfolio/static/media/pic_ocean.0196ef37919f56a892bb.png",
     "static/media/cocktail.png": "/my-portfolio/static/media/cocktail.dc6fcde92f445920ff9e.png",
@@ -11,9 +11,9 @@
     "static/media/note-taker.png": "/my-portfolio/static/media/note-taker.cb1edddf32dfd67d43bf.png",
     "static/media/Instagram_Glyph_Gradient_RGB.png": "/my-portfolio/static/media/Instagram_Glyph_Gradient_RGB.f7b3dff34fba7bf43d83.png",
     "index.html": "/my-portfolio/index.html",
-    "main.893cf9bd.js.map": "/my-portfolio/static/js/main.893cf9bd.js.map"
+    "main.234c24ac.js.map": "/my-portfolio/static/js/main.234c24ac.js.map"
   },
   "entrypoints": [
-    "static/js/main.893cf9bd.js"
+    "static/js/main.234c24ac.js"
   ]
 }
