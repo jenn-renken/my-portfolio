@@ -5,6 +5,30 @@ import Project from "../Project";
 const MyWork = () => {
   const projects = [
     {
+      title: "CentralBark",
+      description:
+        "Social media app where pet owners can signup and post profiles of their pets to connect with other pet owners",
+      img: {
+        srcId: "centralbark",
+        alt: "image of centralbark application",
+      },
+      deployed: {
+        href: "httpshttps://centralbark.herokuapp.com/://stormy-sea-06466.herokuapp.com/",
+        text: "Visit CentralBark!",
+      },
+      repo: {
+        href: "https://github.com/jenn-renken/project3",
+        text: "GitHub Repository",
+      },
+      techs: [
+        "Apollo Express",
+        "React",
+        "GraphQL",
+        "Bulma",
+        "MongoDB Atlas",
+      ]
+    },
+    {
       title: "Travel Experience Tracker",
       description:
         "Blog application where users can sign up and add travel experience posts. \n An authenticated user can add edit and delete their own posts.",

@@ -8,7 +8,8 @@ const Project = (props) => {
         "food": require("../assets/food-festival.png"),
         "zoo": require("../assets/zookeepr.png"),
         "note": require("../assets/note-taker.png"),
-        "weather": require("../assets/weather.png")
+        "weather": require("../assets/weather.png"),
+        "centralbark": require("../assets/centralbark.png")
     }
 
     return (
