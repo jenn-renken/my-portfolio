@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.js": "/my-portfolio/static/js/main.234c24ac.js",
+    "main.js": "/my-portfolio/static/js/main.29ed81f7.js",
     "static/media/food-festival.png": "/my-portfolio/static/media/food-festival.e9a57f639deb63a0d7c2.png",
     "static/media/pic_ocean.png": "/my-portfolio/static/media/pic_ocean.0196ef37919f56a892bb.png",
+    "static/media/centralbark.png": "/my-portfolio/static/media/centralbark.389108a35804f48542eb.png",
     "static/media/cocktail.png": "/my-portfolio/static/media/cocktail.dc6fcde92f445920ff9e.png",
     "static/media/zookeepr.png": "/my-portfolio/static/media/zookeepr.8416ac0f6d4267386e61.png",
     "static/media/travel-experience.png": "/my-portfolio/static/media/travel-experience.c04c2c9d626545cbc060.png",
@@ -11,9 +12,9 @@
     "static/media/note-taker.png": "/my-portfolio/static/media/note-taker.cb1edddf32dfd67d43bf.png",
     "static/media/Instagram_Glyph_Gradient_RGB.png": "/my-portfolio/static/media/Instagram_Glyph_Gradient_RGB.f7b3dff34fba7bf43d83.png",
     "index.html": "/my-portfolio/index.html",
-    "main.234c24ac.js.map": "/my-portfolio/static/js/main.234c24ac.js.map"
+    "main.29ed81f7.js.map": "/my-portfolio/static/js/main.29ed81f7.js.map"
   },
   "entrypoints": [
-    "static/js/main.234c24ac.js"
+    "static/js/main.29ed81f7.js"
   ]
 }
